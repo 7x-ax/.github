@@ -1,4 +1,4 @@
-# Welcome 7x by Mamluk on GitHub
+# Welcome to 7x by Mamluk on GitHub
 
 7x is an API marketplace that provides highly available APIs for the data you need to build your web and mobile applications.
 
