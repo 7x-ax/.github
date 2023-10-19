@@ -13,4 +13,4 @@ Sign up, get your API key and start developing.
 
 [![Discord Server](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4ZWx2vRS) Join our Discord Server at https://discord.gg/4ZWx2vRS
 
-
+&copy; <a href="https://mamluk.net">Mamluk</a>
